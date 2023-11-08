@@ -2,7 +2,7 @@
 
 * This assignment has two main pieces:
 * Moving data from a csv file into a SQLite database.
-- this
+  - this
 * Making a console application that allows a user to connect to and interact with the data in the SQLite database. 
 
 ## Identifying Information
