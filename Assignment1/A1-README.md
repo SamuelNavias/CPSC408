@@ -21,6 +21,6 @@
 * There are no known errors at the time of submission 
 
 ## Execution Instructions
-* python main.py
+* python retrieveData.py
 * python MenuForStudentDB.py
 
